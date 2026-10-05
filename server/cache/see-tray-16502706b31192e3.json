@@ -1,0 +1,25 @@
+{
+ "sponges": 3,
+ "needles": 0,
+ "instruments": 7,
+ "instrument_types": [
+  {
+   "name": "scissors",
+   "count": 4
+  },
+  {
+   "name": "forceps",
+   "count": 2
+  },
+  {
+   "name": "retractor",
+   "count": 1
+  }
+ ],
+ "hidden_or_stacked": "Lower-left cluster of 3-4 overlapping scissors/forceps; bottom-right cluster of ~3 overlapping scissors; top-left scissor handles cut off at frame edge; long instrument at top edge partially out of frame; gauze inside top metal bowl and bottom-right gauze pad partially obscured/out of frame.",
+ "readable": {
+  "sponges": false,
+  "needles": true,
+  "instruments": false
+ }
+}

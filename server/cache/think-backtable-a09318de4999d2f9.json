@@ -1,0 +1,26 @@
+{
+ "status": "hold",
+ "lines": [
+  {
+   "item": "Sponges",
+   "camera": 8,
+   "declared": 9,
+   "state": "short"
+  },
+  {
+   "item": "Needles",
+   "camera": 0,
+   "declared": 0,
+   "state": "match"
+  },
+  {
+   "item": "Instruments",
+   "camera": 14,
+   "declared": 14,
+   "state": "unverified"
+  }
+ ],
+ "headline": "Sponge count mismatch, cameras uncertain on instruments",
+ "reason": "Sponges: camera sees 8, declared 9 (camera short). Instruments match but unreadable due to overlap/frame cut.",
+ "action": "Recount sponges, re\u2011image table, verify instrument visibility before proceeding."
+}

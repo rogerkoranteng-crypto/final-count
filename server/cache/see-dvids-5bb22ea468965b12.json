@@ -1,0 +1,25 @@
+{
+ "sponges": 8,
+ "needles": 0,
+ "instruments": 14,
+ "instrument_types": [
+  {
+   "name": "scissors",
+   "count": 3
+  },
+  {
+   "name": "hemostat/forceps",
+   "count": 8
+  },
+  {
+   "name": "probe/long thin instrument",
+   "count": 3
+  }
+ ],
+ "hidden_or_stacked": "Sponges are stacked and overlapping in two clusters (left-center and right-center), and one sponge at the bottom-right is only partially in frame. Several instruments on the far right edge are cut off by the frame, and a few long instruments in the center overlap each other, so exact separation is unreliable.",
+ "readable": {
+  "sponges": false,
+  "needles": true,
+  "instruments": false
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "status": "hold",
+ "lines": [
+  {
+   "item": "Sponges",
+   "camera": 2,
+   "declared": 3,
+   "state": "short"
+  },
+  {
+   "item": "Needles",
+   "camera": 0,
+   "declared": 0,
+   "state": "match"
+  },
+  {
+   "item": "Instruments",
+   "camera": 14,
+   "declared": 12,
+   "state": "over"
+  }
+ ],
+ "headline": "Sponge and instrument counts disagree with camera.",
+ "reason": "Camera sees 2 sponges vs declared 3 (short) and 14 instruments vs declared 12 (over).",
+ "action": "Recount sponges and instruments, verify any missing or extra items before proceeding."
+}

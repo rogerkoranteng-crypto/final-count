@@ -1,0 +1,26 @@
+{
+ "status": "cannot_vouch",
+ "lines": [
+  {
+   "item": "Sponges",
+   "camera": 3,
+   "declared": 3,
+   "state": "unverified"
+  },
+  {
+   "item": "Needles",
+   "camera": 0,
+   "declared": 0,
+   "state": "match"
+  },
+  {
+   "item": "Instruments",
+   "camera": 7,
+   "declared": 7,
+   "state": "unverified"
+  }
+ ],
+ "headline": "Camera cannot verify sponge and instrument counts",
+ "reason": "Sponges and instruments marked unreadable due to overlap/obstruction; counts match declared but cannot be vouched.",
+ "action": "Recount sponges and instruments manually or obtain clearer images before proceeding."
+}

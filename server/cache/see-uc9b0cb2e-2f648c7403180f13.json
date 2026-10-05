@@ -1,0 +1,33 @@
+{
+ "sponges": 8,
+ "needles": 0,
+ "instruments": 14,
+ "instrument_types": [
+  {
+   "name": "scissors",
+   "count": 3
+  },
+  {
+   "name": "forceps",
+   "count": 4
+  },
+  {
+   "name": "hemostat",
+   "count": 2
+  },
+  {
+   "name": "retractor",
+   "count": 2
+  },
+  {
+   "name": "other_hand_instruments",
+   "count": 3
+  }
+ ],
+ "hidden_or_stacked": "Sponges overlap in two clusters (left and right) and one is cut off at the bottom edge; several instruments on the right side are partially out of frame or overlapping (black-handled, blue-handled and white-handled tools), so exact instrument count is unreliable.",
+ "readable": {
+  "sponges": false,
+  "needles": true,
+  "instruments": false
+ }
+}

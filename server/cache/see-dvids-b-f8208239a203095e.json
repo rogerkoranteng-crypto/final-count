@@ -1,0 +1,29 @@
+{
+ "sponges": 8,
+ "needles": 0,
+ "instruments": 14,
+ "instrument_types": [
+  {
+   "name": "hemostat",
+   "count": 6
+  },
+  {
+   "name": "scissor",
+   "count": 3
+  },
+  {
+   "name": "retractor",
+   "count": 3
+  },
+  {
+   "name": "clamp",
+   "count": 2
+  }
+ ],
+ "hidden_or_stacked": "Sponges are stacked/overlapping in two clusters and one sponge at the bottom edge is partially out of frame; several instruments on the right side overlap each other and extend out of frame, so they cannot be counted reliably.",
+ "readable": {
+  "sponges": false,
+  "needles": true,
+  "instruments": false
+ }
+}

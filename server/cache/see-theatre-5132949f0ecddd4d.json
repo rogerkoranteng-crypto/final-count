@@ -1,0 +1,29 @@
+{
+ "sponges": 2,
+ "needles": 0,
+ "instruments": 14,
+ "instrument_types": [
+  {
+   "name": "retractor",
+   "count": 2
+  },
+  {
+   "name": "scalpel_handle",
+   "count": 1
+  },
+  {
+   "name": "forceps",
+   "count": 9
+  },
+  {
+   "name": "scissors",
+   "count": 2
+  }
+ ],
+ "hidden_or_stacked": "Multiple forceps are crossed/overlapping in the top\u2011right cluster and the two ring\u2011handled forceps on the blue drape overlap each other; a folded sponge in the basin (bottom left) and a white corner at the bottom\u2011right edge are partially out of frame and cannot be counted reliably.",
+ "readable": {
+  "sponges": false,
+  "needles": true,
+  "instruments": false
+ }
+}

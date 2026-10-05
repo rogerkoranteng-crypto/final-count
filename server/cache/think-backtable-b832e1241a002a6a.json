@@ -1,0 +1,26 @@
+{
+ "status": "cannot_vouch",
+ "lines": [
+  {
+   "item": "Sponges",
+   "camera": 8,
+   "declared": 8,
+   "state": "unverified"
+  },
+  {
+   "item": "Needles",
+   "camera": 0,
+   "declared": 0,
+   "state": "match"
+  },
+  {
+   "item": "Instruments",
+   "camera": 14,
+   "declared": 14,
+   "state": "unverified"
+  }
+ ],
+ "headline": "Camera cannot verify due to obscured items",
+ "reason": "Sponges and instruments counts match declared but are marked unreadable (stacked, overlapping, out of frame).",
+ "action": "Re\u2011examine the field, re\u2011image or manually recount sponges and instruments before proceeding."
+}

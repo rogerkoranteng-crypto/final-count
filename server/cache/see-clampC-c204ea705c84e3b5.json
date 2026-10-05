@@ -1,0 +1,17 @@
+{
+ "sponges": 0,
+ "needles": 0,
+ "instruments": 1,
+ "instrument_types": [
+  {
+   "name": "scissors",
+   "count": 1
+  }
+ ],
+ "hidden_or_stacked": "",
+ "readable": {
+  "sponges": true,
+  "needles": true,
+  "instruments": true
+ }
+}

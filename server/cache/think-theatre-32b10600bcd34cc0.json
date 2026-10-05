@@ -1,0 +1,26 @@
+{
+ "status": "hold",
+ "lines": [
+  {
+   "item": "Sponges",
+   "camera": 2,
+   "declared": 3,
+   "state": "short"
+  },
+  {
+   "item": "Needles",
+   "camera": 0,
+   "declared": 0,
+   "state": "match"
+  },
+  {
+   "item": "Instruments",
+   "camera": 14,
+   "declared": 14,
+   "state": "unverified"
+  }
+ ],
+ "headline": "Sponge count mismatch detected",
+ "reason": "Camera sees 2 sponges, declared count is 3 \u2013 a shortfall suggests a missing sponge.",
+ "action": "Recount sponges and search field before proceeding."
+}

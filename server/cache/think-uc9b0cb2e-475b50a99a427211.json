@@ -1,0 +1,26 @@
+{
+ "status": "cannot_vouch",
+ "lines": [
+  {
+   "item": "Sponges",
+   "camera": 8,
+   "declared": 8,
+   "state": "unverified"
+  },
+  {
+   "item": "Needles",
+   "camera": 0,
+   "declared": 0,
+   "state": "match"
+  },
+  {
+   "item": "Instruments",
+   "camera": 14,
+   "declared": 14,
+   "state": "unverified"
+  }
+ ],
+ "headline": "Counts match but visibility limited",
+ "reason": "Sponges and instruments counts match declared (8, 14) but are overlapped/out of frame, so cannot verify.",
+ "action": "Re\u2011examine the field and retake a clear overhead image before finalizing."
+}

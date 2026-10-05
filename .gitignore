@@ -1,0 +1,5 @@
+.env
+server/records.json
+server/cache/uploads/
+client/node_modules
+client/dist

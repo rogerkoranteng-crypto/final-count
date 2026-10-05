@@ -1,0 +1,26 @@
+{
+ "status": "reconciled",
+ "lines": [
+  {
+   "item": "Sponges",
+   "camera": 0,
+   "declared": 0,
+   "state": "match"
+  },
+  {
+   "item": "Needles",
+   "camera": 0,
+   "declared": 0,
+   "state": "match"
+  },
+  {
+   "item": "Instruments",
+   "camera": 2,
+   "declared": 2,
+   "state": "match"
+  }
+ ],
+ "headline": "Counts match and all items readable",
+ "reason": "Camera reports sponges 0, needles 0, instruments 2; declared count matches exactly; all classes marked readable.",
+ "action": "Proceed with skin closure; no further count action needed."
+}
